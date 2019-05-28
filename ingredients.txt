@@ -1,3 +1,5 @@
 avocados
 2tomatoes
 cilantro
+pepper
+salt
