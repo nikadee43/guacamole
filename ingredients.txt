@@ -1,5 +1,6 @@
-avocados
-2tomatoes
-cilantro
-pepper
-salt
+1. avocados
+2. tomatoes
+3. cilantro
+4. pepper
+5. salt
+6. garlic
